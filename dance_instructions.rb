@@ -60,3 +60,15 @@ def gangnam_style
   skip_step
   lasso
   skip_step
+  lasso
+  skip_step
+  lasso
+  skip_step
+  lasso
+  skip_step
+  lasso
+  skip_step
+  lasso
+  skip_step
+end 
+gangnam_style
