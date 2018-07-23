@@ -40,3 +40,19 @@ def gangnam_style
   base_footwork
   bob_the_reins
   skip_step
+  bob_the_reins
+  skip_step
+  bob_the_reins
+  skip_step
+  bob_the_reins
+  skip_step
+  bob_the_reins
+  skip_step
+  bob_the_reins
+  skip_step
+  bob_the_reins
+  skip_step
+  bob_the_reins
+  skip_step
+  lasso
+  skip_step
